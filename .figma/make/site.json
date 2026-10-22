@@ -1,0 +1,10 @@
+{
+  "description": "Streamline service lifecycle management with an intuitive platform that optimizes workflows and enhances operational efficiency for businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
